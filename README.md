@@ -108,7 +108,7 @@ Data is grouped based on specific columns to:
 In this step:
 
 * Specific columns are selected for analysis
-* Change columns name
+* New columns are created if required
 * Existing columns are modified or filtered
 
 This helps focus on relevant data only.
